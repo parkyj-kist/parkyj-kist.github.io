@@ -1,9 +1,9 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Yang Jeong Park | KIST 
+email:              parkyj@kist.re.kr
+description:        Computational Science Research Center, Korea Institute of Science and Technology
+author:             Yang Jeong Park
 baseurl:            ""
-url:                "https://parkyj-kist.github.io"
+url:                "https://parkyangjeong.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
