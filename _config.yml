@@ -6,11 +6,11 @@ baseurl:            ""
 url:                "https://parkyangjeong.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    parkyjmit
+facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username:   yjeong3506@gmail.com
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
