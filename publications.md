@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Publications
 description: Research acheivements
 background: '/img/bg-publications.jpg'
 form: true
